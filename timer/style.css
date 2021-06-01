@@ -1,0 +1,45 @@
+body{
+    margin: 0;
+    padding: 0;
+    direction: rtl;
+    background: linear-gradient(90deg , rgb(91, 3, 98) 20%, rgb(194, 12, 66) 100%); 
+    font-family: Vazir;
+    color: rgb(255, 255, 255);
+    }
+    h1 {
+        text-align: center;
+        line-height: 3em;
+        }
+    .cc {
+    max-width: 85em;
+    min-width: 320px;
+    margin: 0 auto;
+    padding: 0 0.5em;
+    position: relative;
+    box-sizing: border-box;
+    }
+    .box {
+    margin: 0 auto;
+    width: 60%;
+    text-align: center;
+    padding: 3em;
+    }
+    #time {
+        margin-bottom: 1em;
+        font-size: 2em;
+        }
+    button {
+    background: #f84690;
+    border: 1px solid #FFF;
+    color: #FFF;
+    padding: 1em 2em;
+    border-radius: 5px;
+    font-size: 1em;
+    transition: all 0.5s ease-in-out;
+    }
+    button:hover {
+    color: #222627;
+    background: rgb(255, 255, 255);
+    border: 1px solid #f84690;
+    }
+  
